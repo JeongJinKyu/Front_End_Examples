@@ -7,6 +7,7 @@
 **웹 프로그래밍을 위한 자바 스크립트 기본 편**
 
 **고경희 지음 | 이지스 퍼블리싱**
+
 ![](https://github.com/funnycom/js-basic-book/blob/master/js-basic.jpeg)
 
 *https://github.com/funnycom/js-basic-book.git
