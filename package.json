@@ -1,0 +1,11 @@
+{
+  "name": "front_end_examples",
+  "version": "1.0.0",
+  "description": "프론트 엔드 공부하기 ### 개발 환경 ####  사용한 IDE    intellij",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
