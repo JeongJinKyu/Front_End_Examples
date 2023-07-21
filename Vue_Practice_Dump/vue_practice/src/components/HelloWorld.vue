@@ -38,7 +38,9 @@ p {
     font-family: 'Single Day';
     line-height: 1.7;
     font-size: 2rem;
-    color : #595959;
+    color : #ffffff;
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.65);
+    text-shadow: 2px 2px 4px rgba(255, 38, 0, 0.89);
 }
 section {
     color : #DB005B;
